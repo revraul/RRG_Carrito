@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#titulo {
+    margin: 20px;
+}
+button {
+    display: flex; 
+    margin: 10px;
+    justify-content: center; 
+    align-items: center;
+    height: 40px;
+    width: 60px;
+   
+}
+
+#boton-vaciar {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+aside {
+    background-color: rgba(96, 96, 96, 0.053);
+}
